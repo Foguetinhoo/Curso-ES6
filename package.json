@@ -1,0 +1,12 @@
+{
+  "name": "Curso-ES6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Foguetinhoo/Curso-ES6.git",
+  "author": "Foguetinhoo <gilliard.info@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/preset-env": "^7.4.3"
+  }
+}
